@@ -27,9 +27,12 @@ Aqui você encontra alguns exemplos de projetos incríveis feitos pelos alunos:
 - **Email:** marcia.scanacapra@gmail.com
 ---
 
+
 ## 🎉 Fun Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
 
 ---
 

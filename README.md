@@ -18,26 +18,28 @@ Bem-vindos ao meu GitHub! 🎉 Sou professora do curso técnico de Desenvolvimen
 
 ---
 
-## 🏆 Top Projetos
-Aqui você encontra alguns exemplos de projetos incríveis feitos pelos alunos:
----
-
-## 🌐 Vamos nos conectar?
-- **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/marciascanacapra/))
-- **Email:** marcia.scanacapra@gmail.com
----
-
-
 ## 🎉 Fun Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
 
+---
+
+## 🏆 Top Projetos
+Aqui você encontra alguns exemplos de projetos incríveis feitos pelos alunos:
+
+---
+
+## 🌐 Vamos nos conectar?
+- **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/marciascanacapra/))
+- **Email:** marcia.scanacapra@gmail.com
 
 ---
 
 ## 🧙 Dicas da Profª Márcia
 _"A melhor maneira de prever o futuro é codá-lo!"_ 💡
+
+---
 
 ### 🍕 Fun Fact:
 Se um `if` e um `else` entrassem em uma pizzaria... qual seria a pizza preferida? 🤔  

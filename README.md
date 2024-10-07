@@ -18,12 +18,7 @@ Bem-vindos ao meu GitHub! 🎉 Sou professora do curso técnico de Desenvolvimen
 
 ---
 
-## 🎉 Fun Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
-
----
 
 ## 🏆 Top Projetos
 Aqui você encontra alguns exemplos de projetos incríveis feitos pelos alunos:
